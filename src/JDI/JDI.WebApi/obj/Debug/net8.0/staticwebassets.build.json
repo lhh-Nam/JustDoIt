@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YfKLVOucyJvvwkTBERErj9RVA3jXQjzpSxmMlEBvWOA=",
+  "Source": "JDI.WebApi",
+  "BasePath": "_content/JDI.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

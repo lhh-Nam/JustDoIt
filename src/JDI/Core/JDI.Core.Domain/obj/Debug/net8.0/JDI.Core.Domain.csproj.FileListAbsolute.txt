@@ -1,0 +1,11 @@
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/bin/Debug/net8.0/JDI.Core.Domain.deps.json
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/bin/Debug/net8.0/JDI.Core.Domain.dll
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/bin/Debug/net8.0/JDI.Core.Domain.pdb
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/JDI.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/JDI.Core.Domain.AssemblyInfoInputs.cache
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/JDI.Core.Domain.AssemblyInfo.cs
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/JDI.Core.Domain.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/JDI.Core.Domain.dll
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/refint/JDI.Core.Domain.dll
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/JDI.Core.Domain.pdb
+/Users/macbookpro/Workspace/JustDoIt/src/JDI/Core/JDI.Core.Domain/obj/Debug/net8.0/ref/JDI.Core.Domain.dll
